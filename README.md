@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreschaparro
+- 👋 Hi, I’m @andreschaparroe
 - 👀 I’m interested in embedded systems technologies.
 - 🌱 I’m currently learning to program in C.
 - 💞️ I’m looking to collaborate on embedded systems projects.
